@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaciejIwan01
+- 👀 I’m interested in IT, and photography
+- 🌱 I’m currently learning JAVA
+- 📫 maciejiwan01@outlook.com
